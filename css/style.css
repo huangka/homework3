@@ -121,6 +121,7 @@ tbody tr:last-child td:last-child{
 footer{
   position: fixed;
   bottom: 0;
+  left: 0;
   width:100%;
   min-height: 75px;
   background:#000000;
