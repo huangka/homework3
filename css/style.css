@@ -17,9 +17,9 @@ body{
   background-color:#DDDDDD;
   background-size: cover ;
   background-position: center;
-  
-  
+  background-repeat: no-repeat;
 }
+  
 
 main{
   margin-bottom: 100px;
@@ -43,7 +43,7 @@ p{
 
 a{
   font-size: 16px;
-  color: #B92751; 
+  color: #B21F50; 
   text-decoration-line: underline;
   text-decoration-style: wavy;
 
@@ -57,7 +57,7 @@ table{
 }
 
 .colhead{
-  background-color: #7e0830;
+  background-color: #7e0820;
   color: #FFFFFF;
   min-width: 125px;
   padding: 10px;
@@ -126,7 +126,11 @@ footer{
   background:#000000;
   text-align:center;
   color: #FFFFFF;
-  
-  
+
 }
 
+footer p {
+  padding-top: 0px;
+  text-align: right;
+  padding-left: 0px;
+  }
